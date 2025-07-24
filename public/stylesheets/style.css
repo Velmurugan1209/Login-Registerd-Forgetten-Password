@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(125, 240, 240);
+
+}
+
+.login{
+    text-align: center;
+    margin-top: 330px;
+
+}
+.register{
+    text-align: center;
+    margin-top: 330px;
+}
